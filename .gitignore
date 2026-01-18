@@ -20,6 +20,10 @@ release/
 .gradle/
 build/
 
+# Python virtual environment
+.venv/
+venv/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
